@@ -1,6 +1,6 @@
 name: Nextcloud for Home Assistant
 url: https://github.com/haberda/hassio_addons/tree/master/nextcloud
-version: 26.0.2
+version: 26.0.3
 slug: nextcloud
 arch:
 - aarch64
