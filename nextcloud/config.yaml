@@ -17,7 +17,7 @@ map:
 - ssl:rw
 ports:
   443/tcp: 8099
-  80/tcp: 8098
+  80/tcp: null
 ports_description:
   443/tcp: https port
   80/tcp: http port
