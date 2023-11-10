@@ -8,6 +8,9 @@ arch:
 description: Nextcloud for Home Assistant
 startup: system
 boot: manual
+ingress: true
+ingress_port: 8099
+ingress_entry: /
 map:
 - share:rw
 - media:rw
