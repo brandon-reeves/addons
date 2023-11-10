@@ -9,7 +9,7 @@ description: Nextcloud for Home Assistant
 startup: system
 boot: manual
 ingress: true
-ingress_port: 80
+ingress_port: 443
 ingress_entry: /
 map:
 - share:rw
